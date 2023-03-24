@@ -1,6 +1,6 @@
 <h1 align="center"> Landing Page - Horror Game</h1>
 <p align="center">
-Uma página de um jogo de terror feito a partir dos meus estudos na RocketSeat.
+Uma página de um jogo de terror feito a partir dos meus estudos na RocketSeat. (Somente para computador, mobile não foi alterado ainda)
 </p>
 
 <p align="center">
